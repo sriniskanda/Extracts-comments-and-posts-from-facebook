@@ -5,3 +5,7 @@ first argument give "User name"
 second argument give "number of days" (How many days you want to extract comments and posts)
 third argument give APP_SECRET you will get from facebook developer account
 fourth argument give APP_ID which also you will get from facebook developer account
+code output will be csv file with parameters in order are POST ID, COMMENT ID, USERNAME, COMMENT
+
+To get APP_SECRET snd APP_ID register your app in https://developers.facebook.com/ after registering app APP_SCRET and APP_ID is generated
+generated credential 
